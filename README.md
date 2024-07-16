@@ -5,7 +5,7 @@
 ### <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python Pandas" width="20"/> Pandas
 ### <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python NumPy" width="20"/> NumPy
 ### SQL
-### <img src="https://static-00.iconduck.com/assets.00/power-bi-icon-384x512-bujnuaon.png PowerBI" alt="PowerBI" width="20"/> PowerBI
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="20"/> PowerBI
 ### <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="20"/> Tableau 
 ### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotASjjoWf0onHghuNfmKinrQnhaT910k2Ug&s" alt="Spreadsheets" width="20"/> Advanced Spreadsheets 
 
