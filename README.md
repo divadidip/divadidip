@@ -1,6 +1,15 @@
 ## Hi there 👋
+# A Mathematician with experience as a marketer and data analyst. I'm combining my commercial and technical expertise to suggest sales & marketing strategies that contributes to the company's growth 🪴
 
-<!--
+## Tools 📫
+# - Pandas
+# - NumPy
+# - SQL
+# - PowerBI
+# - Tableau
+# - Advanced Spreadsheets
+
+<!--            
 **divadidip/divadidip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
