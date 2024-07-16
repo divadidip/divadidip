@@ -4,7 +4,7 @@
 ## Tools 📫
 ### <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python Pandas" width="20"/> Pandas
 ### <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python NumPy" width="20"/> NumPy
-### <img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" alt="SQL width="20"/> SQL
+### SQL
 ### <img src="https://static-00.iconduck.com/assets.00/power-bi-icon-384x512-bujnuaon.png PowerBI" alt="PowerBI" width="20"/> PowerBI
 ### <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="20"/> Tableau 
 ### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotASjjoWf0onHghuNfmKinrQnhaT910k2Ug&s" alt="Spreadsheets" width="20"/> Advanced Spreadsheets 
