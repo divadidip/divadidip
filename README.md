@@ -2,7 +2,7 @@
 ### A Mathematician with experience as a marketer and data analyst. I'm combining my commercial and technical expertise to suggest sales & marketing strategies that contribute to the company's growth 🪴
 
 ## Tools 📫
-### ![Python Pandas](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png) Pandas
+### <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python Pandas" width="20"/> Pandas
 ### - NumPy
 ### - SQL
 ### - PowerBI
