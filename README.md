@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm a Mathematician with experience as a marketer and data analyst. I'm combining my commercial and technical expertise to suggest sales & marketing strategies that contribute to the company's growth 🪴
+### I'm a mathematician with professional experience as a marketer and data analyst. I'm combining my commercial and technical expertise to suggest sales & marketing strategies that contribute to the company's growth 🪴
 
 ## Tools 📫
 ### <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python Pandas" width="20"/> Pandas, NumPy, Matplotlib,...
