@@ -5,7 +5,7 @@
 ### <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python Pandas" width="20"/> Pandas, NumPy, Matplotlib, Seaborn, ....
 ### <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="20"/> Tableau 
 ### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotASjjoWf0onHghuNfmKinrQnhaT910k2Ug&s" alt="Spreadsheets" width="20"/> Advanced Spreadsheets 
-### SQL PostgreSQL
+### <img src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png" alt="SQL" width="20"/> SQL PostgreSQL
 
 <!--            
 **divadidip/divadidip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
